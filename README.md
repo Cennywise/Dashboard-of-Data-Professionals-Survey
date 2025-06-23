@@ -1,15 +1,3 @@
 # Dashboard for Data Professionals Survey
-## Power BI Dashboard Examining a Survey of Professionals in Data Analysis
+## A Dashboard of Survey Data from Professionals in Data Analysis Regarding Their Careers
 
-What is this?
-
-A survey was given to professionals in Data Analysis. 
-
-Outline:
-Title and subtitle (one line explainer)
-Intro paragraph
-Diagram or video (optional)
-Installation instructions for users
-Installation instructions for developers
-Contributor expectations
-Known issues
