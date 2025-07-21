@@ -4,4 +4,4 @@ Do data analysts hate their jobs? In 2022, [Alex Freberg](https://www.alextheana
 
 ![Dashboard](Power_BI_Dashboard.png)
 
-The original, uncleaned data can be found in the included excel file.
+The original, uncleaned data can be found in the included Excel file.
